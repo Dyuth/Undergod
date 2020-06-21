@@ -1,0 +1,60 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/templates/full-width-pics)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+  font-family: "Bahnschrift", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  padding-top: 56px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  opacity: 75%;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #b174f2;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.py-5 {
+  color: white;
+  background-color: #1f1d23;
+}
+.container2 {
+  margin-right: 25px;
+  text-align: right;
+}
+.container3 {
+  margin-top: 35px;
+  text-align: center;
+}
+
+.bg-dark {
+  background-color: #1f1d23 !important;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
