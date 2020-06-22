@@ -15,6 +15,15 @@ body {
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+  opacity: 40%;
+}
+.fab {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
   opacity: 75%;
 }
 .fa-facebook {
@@ -26,11 +35,15 @@ body {
   color: white;
 }
 .fa-instagram {
-  background: #b174f2;
+  background: #d074f2;
   color: white;
 }
 .fa-youtube {
   background: #bb0000;
+  color: white;
+}
+.fa-discord {
+  background: #27216e;
   color: white;
 }
 
