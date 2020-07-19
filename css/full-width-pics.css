@@ -52,7 +52,7 @@ body {
   background-color: #1f1d23;
 }
 .container2 {
-  margin-right: 25px;
+  margin-right: 65px;
   text-align: right;
 }
 .container3 {
@@ -70,4 +70,43 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+/*Contact sectiom*/
+.content-header{
+  font-family: 'Oleo Script', cursive;
+  color:#fcc500;
+  font-size: 45px;
+}
+
+.section-content{
+  text-align: center;
+
+}
+
+.text-center{
+  background-color: #1f1d23;
+  color: white;
+}
+
+.btn{
+  background: #822b11;
+  color: white;
+}
+
+.custom-control-label{
+  color: #dbdbdb;
+}
+.fas{
+  color: white;
+}
+.px-2 {
+  padding-left: ($spacer * .5) !important;
+  padding-right: ($spacer * .5) !important;
+}
+
+.p-3 {
+  padding: $spacer !important;
+}
+.ml-1 {
+  margin-left: ($spacer * .25) !important;
 }
