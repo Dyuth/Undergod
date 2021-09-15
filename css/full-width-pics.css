@@ -15,7 +15,7 @@ body {
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
-  opacity: 40%;
+  opacity: 70%;
 }
 .fab {
   padding: 10px;
@@ -49,13 +49,35 @@ body {
 
 .py-5 {
   color: white;
-  background-color: #1f1d23;
+  background-color: #0B1110;
 }
+
+.lead{
+  font-family: 'grecoromanlubedwrestling';
+  font-size: 24px;
+}
+
+.containertext{
+  font-size: 18px;
+}
+
+.frontitle{
+  font-size: 52px;
+  font-family: 'grecoromanlubedwrestling';
+}
+
+.container1 {
+  font-family: 'grecoromanlubedwrestling';
+  padding-left: 140px;
+  text-align: left;}
+
 .container2 {
-  margin-right: 65px;
+  font-family: 'grecoromanlubedwrestling';
+  padding-right: 65px;
   text-align: right;
 }
 .container3 {
+  font-family: 'grecoromanlubedwrestling';
   margin-top: 35px;
   text-align: center;
 }
@@ -81,6 +103,14 @@ body {
 .section-content{
   text-align: center;
 
+}
+
+.fontsita{
+  font-family: 'grecoromanlubedwrestling';
+}
+
+.navbar-brand{
+  font-family: 'grecoromanlubedwrestling';
 }
 
 .text-center{
@@ -109,4 +139,14 @@ body {
 }
 .ml-1 {
   margin-left: ($spacer * .25) !important;
+}
+@font-face {
+    font-family: 'grecoromanlubedwrestling';
+    src: url('grecoromanlubedwrestling-webfont.woff2') format('woff2'),
+         url('grecoromanlubedwrestling-webfont.woff') format('woff'),
+         url('grecoromanlubedwrestling-webfont.ttf') format('truetype'),
+         url('grecoromanlubedwrestling-webfont.svg#grecoromanlubedwrestlingMd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
