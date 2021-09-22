@@ -83,6 +83,11 @@ body {
   margin-left: 85px;
   text-align: center;
 }
+.containeryt {
+  font-family: 'grecoromanlubedwrestling';
+  margin-top: 35px;
+  text-align: center;
+}
 
 .bg-dark {
   background-color: #1f1d23 !important;
@@ -144,11 +149,10 @@ body {
 }
 @font-face {
     font-family: 'grecoromanlubedwrestling';
-    src: url('grecoromanlubedwrestling-webfont.woff2') format('woff2'),
-         url('grecoromanlubedwrestling-webfont.woff') format('woff'),
-         url('grecoromanlubedwrestling-webfont.ttf') format('truetype'),
-         url('grecoromanlubedwrestling-webfont.svg#grecoromanlubedwrestlingMd') format('svg');
+    src: url('http://undergod.xyz/grecoromanlubedwrestling-webfont.woff2') format('woff2'),
+         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.woff') format('woff'),
+         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.ttf') format('truetype'),
+         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.svg#grecoromanlubedwrestlingMd') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
