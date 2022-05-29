@@ -42,50 +42,6 @@ body {
   background: #bb0000;
   color: white;
 }
-.fa-discord {/*!
- * Start Bootstrap - Full Width Pics (https://startbootstrap.com/templates/full-width-pics)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-full-width-pics/blob/master/LICENSE)
- */
-body {
-  font-family: "Bahnschrift", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  padding-top: 56px;
-}
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  opacity: 70%;
-}
-.fab {
-  padding: 10px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  opacity: 75%;
-}
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-.fa-instagram {
-  background: #d074f2;
-  color: white;
-}
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
 .fa-discord {
   background: #27216e;
   color: white;
@@ -93,7 +49,7 @@ body {
 
 .py-5 {
   color: white;
-  background-color: #F3F3F3;
+  background-color: #f3f3f3;
   color: black;
 }
 
@@ -201,121 +157,7 @@ body {
 
 
 }
-@font-face {
-    color: black;
-    font-family: 'grecoromanlubedwrestling';
-    src: url('http://undergod.xyz/grecoromanlubedwrestling-webfont.woff2') format('woff2'),
-         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.woff') format('woff'),
-         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.ttf') format('truetype'),
-         url('http://undergod.xyz/grecoromanlubedwrestling-webfont.svg#grecoromanlubedwrestlingMd') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
-  background: #27216e;
-  color: white;
-}
-
-.py-5 {
-  color: white;
-  background-color: #0B1110;
-}
-
-.lead{
-  font-family: 'grecoromanlubedwrestling';
-  font-size: 18px;
-}
-
-.containertext{
-  font-size: 18px;
-}
-
-.frontitle{
-  font-size: 34px;
-  font-family: 'grecoromanlubedwrestling';
-}
-
-.container1 {
-  font-family: 'grecoromanlubedwrestling';
-  padding-left: 140px;
-  text-align: left;}
-
-.container2 {
-  font-family: 'grecoromanlubedwrestling';
-  padding-right: 65px;
-  text-align: right;
-}
-.container3 {
-  font-family: 'grecoromanlubedwrestling';
-  margin-top: 35px;
-  margin-right: 85px;
-  margin-left: 85px;
-  text-align: center;
-}
-.containeryt {
-  font-family: 'grecoromanlubedwrestling';
-  margin-top: 35px;
-  text-align: center;
-}
-
-.bg-dark {
-  background-color: #1f1d23 !important;
-}
-
-.bg-image-full {
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-/*Contact sectiom*/
-.content-header{
-  font-family: 'Oleo Script', cursive;
-  color:#fcc500;
-  font-size: 45px;
-}
-
-.section-content{
-  text-align: center;
-
-}
-
-.fontsita{
-  font-family: 'grecoromanlubedwrestling';
-}
-
-.navbar-brand{
-  font-family: 'grecoromanlubedwrestling';
-}
-
-.text-center{
-  background-color: #1f1d23;
-  color: white;
-}
-
-.btn{
-  background: #822b11;
-  color: white;
-}
-
-.custom-control-label{
-  color: #dbdbdb;
-}
-.fas{
-  color: white;
-}
-.px-2 {
-  padding-left: ($spacer * .5) !important;
-  padding-right: ($spacer * .5) !important;
-}
-
-.p-3 {
-  padding: $spacer !important;
-}
-.ml-1 {
-  margin-left: ($spacer * .25) !important;
-}
 @font-face {
     font-family: 'grecoromanlubedwrestling';
     src: url('http://undergod.xyz/grecoromanlubedwrestling-webfont.woff2') format('woff2'),
